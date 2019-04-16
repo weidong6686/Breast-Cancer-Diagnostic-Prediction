@@ -19,4 +19,5 @@ Apply the same procedule to the Mean, SE, and Worst groups, we can get their hig
 
 # 4. Comparing & Get final result
 ![9.jpg](images/9.jpg)
+
 After comparing those 4 models, we will choose the approach 1 of logisticRegression model. When we apply it to test data, we can have a score of 0.99
